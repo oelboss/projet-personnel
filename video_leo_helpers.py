@@ -1,4 +1,4 @@
-# on vcrée la fonction
+# on crée la fonction
 def draw_board():
 # on affiche la board dans la fonction
     print ("binevenue dans le super tictactoe!")
