@@ -1,5 +1,4 @@
-#intro
-print ("bienvenue dans le super tictactoe!")
-# on affiche la board
-board = "|1|2|3|\n|4|5|6|\n|7|8|9|"
-print(board)
+#import de la fonction draw board dans le main
+from video_leo_helpers import draw_board
+# affichage de la fonction importée
+draw_board()
